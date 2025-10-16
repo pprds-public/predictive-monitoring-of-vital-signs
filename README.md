@@ -1,2 +1,3 @@
-# predictive-monitoring-of-vital-signs
-AI-driven implementation of the Parallelization Workflow. The system intelligently monitors patients’ vital signs as they stream in. Instead of processing data through a single sequential model, it distributes the workload across multiple specialized AI agents that operate in parallel.
+# Predictive Monitoring of Vital Signs - Agentic AI System (WIP)
+
+AI-driven implementation of the Parallelization Workflow. The system intelligently monitors patients’ vital signs as they stream in. Instead of processing data through a single sequential model, it distributes the workload across multiple specialized AI agents that operate in parallel. Each agent focuses on a specific task like anomaly detection, forecasting, or contextual correlation. This design dramatically reduces latency and improves responsiveness in real-time predictions.
